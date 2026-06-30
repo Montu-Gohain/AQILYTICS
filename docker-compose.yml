@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: aqi_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: aqi_user
+      POSTGRES_PASSWORD: aqi_password
+      POSTGRES_DB: aqi_dashboard
+    ports:
+      - "5432:5432"
+    volumes:
+      - aqi_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  aqi_postgres_data:
