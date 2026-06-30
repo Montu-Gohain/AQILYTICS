@@ -26,33 +26,13 @@ Currently, the project uses **simulated pollution data** generated through a bac
 
 ### UI in Dark Mode
 
-Place your screenshot inside:
-
-```bash
-docs/screenshots/dark-mode.png
-```
-
-Then use:
-
-```md
-![Dark Mode UI](./docs/screenshots/dark-mode.png)
-```
+<img width="100%" alt="Air Quality Monitoring Dashboard - Dark Mode" src="https://github.com/Montu-Gohain/AQILYTICS/blob/main/docs/screenshots/dark-mode.png?raw=true" />
 
 ---
 
 ### UI in Light Mode
 
-Place your screenshot inside:
-
-```bash
-docs/screenshots/light-mode.png
-```
-
-Then use:
-
-```md
-![Light Mode UI](./docs/screenshots/light-mode.png)
-```
+<img width="100%" alt="Air Quality Monitoring Dashboard - Light Mode" src="https://github.com/Montu-Gohain/AQILYTICS/blob/main/docs/screenshots/light-mode.png?raw=true" />
 
 ---
 
