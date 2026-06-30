@@ -12,20 +12,6 @@ This project is built as an MCA academic project using:
 
 ---
 
-## UI Preview
-
-### Dark Mode UI
-
-<img width="100%" alt="Air Quality Monitoring Dashboard - Dark Mode" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76866991/615141012-f82848f8-c893-4d30-9b54-2aed47055ca9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260630T120835Z&X-Amz-Expires=300&X-Amz-Signature=fc7c74ddead146e516755a9b902f557fe1b6d397bd3ffc83249e3650ed3411b8&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" />
-
----
-
-### Light Mode UI
-
-<img width="100%" alt="Air Quality Monitoring Dashboard - Light Mode" src="https://github.com/user-attachments/assets/ba99b354-7e4c-4ff3-b5a8-49a7ece91d0a" />
-
----
-
 ## Project Overview
 
 The **Air Quality Monitoring and Pollution Trend Visualization Dashboard** is designed to visualize pollution levels, Air Quality Index, and pollutant concentration trends across cities and time periods.
