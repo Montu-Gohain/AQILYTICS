@@ -22,7 +22,7 @@ This project is built as an MCA academic project using:
 
 ### Light Mode UI
 
-<img width="100%" alt="Air Quality Monitoring Dashboard - Light Mode" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76866991/615141873-7f9b254d-18ef-4524-9f0a-e7dff572a8e3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260630T121032Z&X-Amz-Expires=300&X-Amz-Signature=919fcf1adb102d793282549db7c7e8f5a6756b9ebcd20515ee9262c5fdf2dc71&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" />
+<img width="100%" alt="Air Quality Monitoring Dashboard - Light Mode" src="https://github.com/user-attachments/assets/ba99b354-7e4c-4ff3-b5a8-49a7ece91d0a" />
 
 ---
 
